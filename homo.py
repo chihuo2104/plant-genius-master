@@ -1,0 +1,1 @@
+#coding=utf8from microbit import *#write your program:while True:  display.scroll("Homo",wait=True,loop=False)  display.scroll("1145141919810",wait=True,loop=False)

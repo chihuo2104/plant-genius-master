@@ -1,6 +1,6 @@
 # 智能植物小管家 by NBFLS 4444 team.
 
-## 智能植物管家研究性学习项目介绍
+## 宁波外国语学校智能植物管家研究性学习项目介绍
 
 智能植物管家研究性学习项目综合了STEM(Science,Technology,Engineering,Math)，荣获浙江省STEM课程的3A级（据说，不清楚）
 
